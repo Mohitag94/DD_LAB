@@ -1,0 +1,1 @@
+cmd_/home/mohit/Documents/IIITDM/Sem_8/DD/ioctl/ioctl.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/mohit/Documents/IIITDM/Sem_8/DD/ioctl/ioctl.ko /home/mohit/Documents/IIITDM/Sem_8/DD/ioctl/ioctl.o /home/mohit/Documents/IIITDM/Sem_8/DD/ioctl/ioctl.mod.o ;  true

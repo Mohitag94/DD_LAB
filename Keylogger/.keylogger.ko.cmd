@@ -1,0 +1,1 @@
+cmd_/home/mohit/Documents/IIITDM/Sem_8/DD/Keylogger/keylogger.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/mohit/Documents/IIITDM/Sem_8/DD/Keylogger/keylogger.ko /home/mohit/Documents/IIITDM/Sem_8/DD/Keylogger/keylogger.o /home/mohit/Documents/IIITDM/Sem_8/DD/Keylogger/keylogger.mod.o ;  true
